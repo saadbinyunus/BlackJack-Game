@@ -1,0 +1,46 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'D:/COE318/lab5/BlackJack/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/COE318/lab5/BlackJack/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BlackJack 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'BlackJack 1.0-SNAPSHOT API'
+coe318.lab5
+'D:/COE318/lab5/BlackJack/src/main/java/coe318/lab5/Card.java'
+'D:/COE318/lab5/BlackJack/src/main/java/coe318/lab5/CardPile.java'
+D:\COE318\lab5\BlackJack\src\main\java = 1635182810372
+D:\COE318\lab5\BlackJack\target\site\apidocs\allclasses-index.html = 1635188978608
+D:\COE318\lab5\BlackJack\target\site\apidocs\allpackages-index.html = 1635188978608
+D:\COE318\lab5\BlackJack\target\site\apidocs\constant-values.html = 1635188978579
+D:\COE318\lab5\BlackJack\target\site\apidocs\element-list = 1635188978518
+D:\COE318\lab5\BlackJack\target\site\apidocs\help-doc.html = 1635188978628
+D:\COE318\lab5\BlackJack\target\site\apidocs\index-all.html = 1635188978618
+D:\COE318\lab5\BlackJack\target\site\apidocs\index.html = 1635188978618
+D:\COE318\lab5\BlackJack\target\site\apidocs\jquery-ui.overrides.css = 1635188978678
+D:\COE318\lab5\BlackJack\target\site\apidocs\member-search-index.js = 1635188978608
+D:\COE318\lab5\BlackJack\target\site\apidocs\module-search-index.js = 1635188978608
+D:\COE318\lab5\BlackJack\target\site\apidocs\overview-tree.html = 1635188978588
+D:\COE318\lab5\BlackJack\target\site\apidocs\package-search-index.js = 1635188978608
+D:\COE318\lab5\BlackJack\target\site\apidocs\script.js = 1635188978648
+D:\COE318\lab5\BlackJack\target\site\apidocs\search.js = 1635188978648
+D:\COE318\lab5\BlackJack\target\site\apidocs\stylesheet.css = 1635188978638
+D:\COE318\lab5\BlackJack\target\site\apidocs\tag-search-index.js = 1635188978608
+D:\COE318\lab5\BlackJack\target\site\apidocs\type-search-index.js = 1635188978608

@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'D:/COE318/lab5/BlackJack/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/COE318/lab5/BlackJack/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BlackJack 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'BlackJack 1.0-SNAPSHOT API'
